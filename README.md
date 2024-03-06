@@ -9,7 +9,6 @@
   - [Description](#description-of-the-repository)
   - [Languages](#languages-that-were-used-during-creation)
   - [Installation](#installation-instructions)
-  - [Usage](#usage-information)
   - [Contributions](#contributions)
   - [Testing](#testing-instructions)
   - [Contact](#contact-information)
